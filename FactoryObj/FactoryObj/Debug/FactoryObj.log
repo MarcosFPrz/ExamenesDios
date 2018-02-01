@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\marko\onedrive\documentos\sae\diseño\examenes\factoryobj\factoryobj\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\marko\onedrive\documentos\sae\diseño\examenes\factoryobj\factoryobj\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  FactoryObj.vcxproj -> C:\Users\marko\OneDrive\Documentos\SAE\Diseño\Examenes\FactoryObj\Debug\FactoryObj.exe
